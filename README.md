@@ -1,7 +1,7 @@
 
 # SwiftUI <img src = "https://user-images.githubusercontent.com/12539719/73930431-d41e7f80-4919-11ea-822e-25f3c1f34a64.png" width = 60  align = right> 
 
-> `SwiftUI` 스터디를 위한 공간입니다.
+ `SwiftUI` 스터디를 위한 공간입니다.
 
 <BR>
 
