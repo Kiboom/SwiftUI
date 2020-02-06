@@ -1,23 +1,20 @@
 
-# RxSwift <img src = "https://github.com/ReactiveX/RxSwift/raw/master/assets/Rx_Logo_M.png" width = 60  align = right> 
+# SwiftUI <img src = "https://user-images.githubusercontent.com/12539719/73930431-d41e7f80-4919-11ea-822e-25f3c1f34a64.png" width = 60  align = right> 
 
->드디어 얘기만 듣던 `RxSwift` 스터디를 시작합니다.
+> `SwiftUI` 스터디를 위한 공간입니다.
 
-## Contents
-* [Tools](https://github.com/fimuxd/RxSwift#tools)
-* [Curriculum](https://github.com/fimuxd/RxSwift#curriculum)
-* [Contributors](https://github.com/fimuxd/RxSwift#Contributors)
+## 목차
+* [준비물](https://github.com/fimuxd/RxSwift#tools)
+* [커리큘럼](https://github.com/fimuxd/RxSwift#curriculum)
 * [ContactMe](https://github.com/fimuxd/RxSwift#ContactMe)
 
-## Tools
-* 📕 RxSwift - Reactive Programming with Swift ([구매하기](https://store.raywenderlich.com/products/swiftui-by-tutorials))
-* 🔨 Xcode 9 or Later
+## 준비물
+* 📕 SwiftUI by Tutorials ([구매하기](https://store.raywenderlich.com/products/swiftui-by-tutorials))
+* 🔨 Xcode 11 or Later
 
-## Curriculum
-
-* 총 5개의 Section과 24개의 Chapter로 구성되어 있습니다.
-* 일단 한 Chapter 씩 차근차근히 읽어나갈 계획입니다. (goals: min 1 chapter/day)
-* 각 Chapter 별로 Summary한 내용들을 기록할 계획입니다.
+## 커리큘럼
+* 총 10개의 Chapter로 구성되어 있습니다.
+* 이틀에 한 챕터씩 읽고 요약정리할 계획입니다. (하루는 읽고 하루는 정리)
 * 개인적인 스터디 + 추후 틈틈히 챙겨볼 handbook 목적입니다.
 
 * **Chapters**
