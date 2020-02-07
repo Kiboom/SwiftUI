@@ -26,8 +26,8 @@
 
 * **Chapters**
 	> | Ch# | Chapter Subject | Question | Note | 
-	> |:---:| :--- | :--- | :--- |
-	> |1|[Introduction](https://github.com/Kiboom/SwiftUI/blob/master/Chapter01:%20Introduction/Chapter01:%20Introduction.md) | | SwiftUI에 대한 간략한 소개 |
+	> |:---:| :--- | :---: | :--- |
+	> |1|[Introduction](https://github.com/Kiboom/SwiftUI/blob/master/Chapter01:%20Introduction/Chapter01:%20Introduction.md) | [❓](https://github.com/Kiboom/SwiftUI/blob/master/Chapter01:%20Introduction/Question.md) | SwiftUI에 대한 간략한 소개 |
 	> |2|[Getting Started: Get started with SwiftUI!]() | | |
 	> |3|[Understanding SwiftUI]() | | |
 	> |4|[Integrating SwiftUI]() | | |
