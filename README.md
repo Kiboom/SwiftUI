@@ -6,9 +6,9 @@
 <BR>
 
 ## 목차
-* [준비물](https://github.com/fimuxd/RxSwift#tools)
-* [커리큘럼](https://github.com/fimuxd/RxSwift#curriculum)
-* [ContactMe](https://github.com/fimuxd/RxSwift#ContactMe)
+* [준비물](https://github.com/Kiboom/SwiftUI#%EC%A4%80%EB%B9%84%EB%AC%BC)
+* [커리큘럼](https://github.com/Kiboom/SwiftUI#%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC)
+* [ContactMe](https://github.com/Kiboom/SwiftUI#ContactMe)
 
 <BR>
 	
@@ -26,7 +26,7 @@
 * **Chapters**
 	> | Ch# | Chapter Subject | Question | Note | 
 	> |:---:| :--- | :--- | :--- |
-	> |1|[Introduction]() | | |
+	> |1|[Introduction](https://github.com/Kiboom/SwiftUI/blob/master/Chapter01:%20Introduction/Chapter01:%20Introduction.md) | | SwiftUI에 대한 간략한 소개 |
 	> |2|[Getting Started: Get started with SwiftUI!]() | | |
 	> |3|[Understanding SwiftUI]() | | |
 	> |4|[Integrating SwiftUI]() | | |
