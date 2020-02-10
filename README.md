@@ -3,20 +3,17 @@
 
  `SwiftUI` 스터디를 위한 공간입니다.
 
-<BR>
 
 ## 목차
 * [준비물](https://github.com/Kiboom/SwiftUI#%EC%A4%80%EB%B9%84%EB%AC%BC)
 * [커리큘럼](https://github.com/Kiboom/SwiftUI#%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC)
 * [ContactMe](https://github.com/Kiboom/SwiftUI#ContactMe)
 
-<BR>
 	
 ## 준비물
 * 📕 SwiftUI by Tutorials ([구매하기](https://store.raywenderlich.com/products/swiftui-by-tutorials))
 * 🔨 Xcode 11 or Later
 
-<BR>
 	
 ## 커리큘럼
 * 총 10개의 Chapter로 구성되어 있습니다.
@@ -38,7 +35,6 @@
 	> |9|[Introducing Stacks & Containers]() | | |
 	> |10|[Lists & Navigation]() | | |
 
-<BR>
 	
 ## ContactMe
 * 📧 cheyugy@naver.com
